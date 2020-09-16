@@ -1,4 +1,4 @@
-# DATA1050 Schedule
+# DATA1050 Outline & Schedule
 ---
 ### Software Development Setup and Skills 101 (~4 weeks)
 * Python Programming review, Test-Driven Development, GIT, Visual Studio Code
@@ -18,46 +18,50 @@ Working on a single machine with tabular data that fits or doesn't fit in memory
   * twoNumberSum.py & testing - `assert`, `set`
 
 <small>hw1 out this week</small>  
-2020-09-15: Coding Skills 
+2020-09-15 Tu: Coding Skills 
 * Test-Driven Development (TDD)
-* Recursion (and TDD)
 * Hands-on CS for DS
-   * twoNumberSum - `pytest`, alternate solutions 
+   * twoNumberSum - alternate solutions 
 
-2020-09-17: Data Structures and Algorithms I
-* ADTs and Classes
+2020-09-17 Th: Data Structures and Algorithms I
+* Recursion (and TDD)
 * Time and Space - Elementary Operations & Memory
-* Complexity Analysis - Theoretical
-* Hands-on Pandas, Tidy Data
-   * tidy-panda - NYC taxi data example
+* Hands-on Pandas
+   * search.py, searchRec.py, binarySearchRec.py, binarySearch.py
+   * `pytest`
 
 <small>hw1 in, hw2 out this week</small>  
-2020-09-22: Data Structures and Algorithms II
-1. Complexity Analysis - Practical
+2020-09-22 Tu: Data Structures and Algorithms II
+1. Abstract Data Types and Classes
+1. Complexity Analysis - Theoretical & Practical
 1. Logarithms
 1. Arrays
 1. Linked-Lists
-1. Hands-on Dask
-   * tidy-dask - NYC taxi data
+1. Hands-on CS
+   * tidy-panda, tidy-dask - NYC taxi data
   
-2020-09-24: Data Structures and Algorithms III
+2020-09-24 Th: Data Structures and Algorithms III
 1. Hash Tables
 1. Stacks and Queues
 1. Strings
 1. Hands-on Vaex
    * tidy-vaex - NYC taxi data
 
-<small>hw2 in, project released</small>  
-2020-09-29: Data Structures and Algorithms IV 
+<small>hw2 in, hw3 out</small>  
+2020-09-29 Tu: Data Structures and Algorithms IV 
 1. Trees
 1. Graphs
-1. Hands-on `git`
+1. Hands-on CS
+   * `git`
 
-2020-10-01: Midterm Review
+2020-10-01 Th: Data Structures and Algorithms V
+1. Special Topics
+1. Hands-on CS
+   * `git` 
 
-<small>hw3 out</small>  
-2020-10-06: Midterm Exam  
-
+<small>hw3 in, Project Released</small>  
+2020-10-06 Tu: Midterm Review
+2020-10-08 Th: Midterm Exam
 ---
 
 ### Accessing Live Data (4 weeks)

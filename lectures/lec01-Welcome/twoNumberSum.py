@@ -10,4 +10,4 @@ def twoNumberSum(array, targetSum):
 
 
 output =  twoNumberSum([1,2,5], 6)
-assert( set(output) == set([1,5] ))
+assert set(output) == set([1, 5])

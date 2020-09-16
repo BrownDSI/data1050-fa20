@@ -1,13 +1,4 @@
 # O(n^2) time | O(1) space
-# "index and slicing solution, pythonic"
-def twoNumberSum_1p(array, targetSum):
-    for (i, iv) in enumerate(array[:-1]):
-        for jv in array[i+1:]:
-            if iv + jv == targetSum:
-                return [iv, jv]
-    return []
-
-# O(n^2) time | O(1) space
 # "two index solution, non-pythonic"
 def twoNumberSum_1(array, targetSum):
     for i in range(len(array)-1):
@@ -18,6 +9,15 @@ def twoNumberSum_1(array, targetSum):
                 return [iv, jv]
     return []
 
+# O(n^2) time | O(1) space, except slicing copies,
+# so O(n) space if you are being fussy.  A better python implementation would not.
+# "index and slicing solution, pythonic"
+def twoNumberSum_1p(array, targetSum):
+    for (i, iv) in enumerate(array[:-1]):
+        for jv in array[i+1:]:
+            if iv + jv == targetSum:
+                return [iv, jv]
+    return []
 
 # O(n) time | O(n) space
 # "hash-map solution"
