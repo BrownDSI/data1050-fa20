@@ -2,7 +2,8 @@
 Think before you speak and ...
 > Read before you think -- Fran Lebowitz 1981
 
-> Test before you code -- Some Programmer 1960s
+> Test before you code -- [Some Programmer](https://www.quora.com/Why-does-Kent-Beck-refer-to-the-rediscovery-of-test-driven-development-Whats-the-history-of-test-driven-development-before-Kent-Becks-rediscovery
+) 1960s
 
 ---
 [Test Driven Design](https://en.wikipedia.org/wiki/Test-driven_development) is a
