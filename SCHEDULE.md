@@ -24,35 +24,34 @@ Working on a single machine with tabular data that fits or doesn't fit in memory
    * twoNumberSum - alternate solutions 
 
 2020-09-17 Th: Data Structures and Algorithms I
-* Recursion (and TDD)
-* Time and Space - Elementary Operations & Memory
-* Hands-on Pandas
-   * search.py, searchRec.py, binarySearchRec.py, binarySearch.py
-   * `pytest`
+* Abstract Data Types, Sets 
+* Recursion I
+   * search.py, binarySearch.py
 
 <small>hw1 in, hw2 out this week</small>  
 2020-09-22 Tu: Data Structures and Algorithms II
+* Recursion II
+* Correctness
+* Run-Time and Algorithmic Run-Times (ART)
+
+
+2020-09-24 Th: Data Structures and Algorithms III
 1. Abstract Data Types and Classes
 1. Complexity Analysis - Theoretical & Practical
 1. Logarithms
-1. Arrays
-1. Linked-Lists
+1. Lists via Arrays, Lists via Linked-Lists
+1. Stacks, Queues
 1. Hands-on CS
-   * tidy-panda, tidy-dask - NYC taxi data
-  
-2020-09-24 Th: Data Structures and Algorithms III
-1. Hash Tables
-1. Stacks and Queues
-1. Strings
-1. Hands-on Vaex
-   * tidy-vaex - NYC taxi data
+   * tidy-pandas, tidy-dask, tidy-vaex - NYC taxi data
 
 <small>hw2 in, hw3 out</small>  
 2020-09-29 Tu: Data Structures and Algorithms IV 
+1. Hash Tables
+1. Strings
 1. Trees
 1. Graphs
 1. Hands-on CS
-   * `git`
+   * `git`, `pytest`
 
 2020-10-01 Th: Data Structures and Algorithms V
 1. Special Topics
