@@ -36,9 +36,9 @@ Working on a single machine with tabular data that fits or doesn't fit in memory
 
 
 2020-09-24 Th: Data Structures and Algorithms III
-1. Abstract Data Types and Classes
 1. Complexity Analysis - Theoretical & Practical
 1. Logarithms
+1. Abstract Data Types
 1. Lists via Arrays, Lists via Linked-Lists
 1. Stacks, Queues
 1. Hands-on CS
