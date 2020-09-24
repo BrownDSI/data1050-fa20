@@ -16,7 +16,7 @@ different numbers in the array, i.e., you can't add an array element to itself t
 What does this problem statement tell you?
 
 ---
-We're now going to code the  solution to this problem.
+We're now going to code the solution to this problem.
 
 ---
 Using the `twoNumberSum-prob.py` problem stencil:
