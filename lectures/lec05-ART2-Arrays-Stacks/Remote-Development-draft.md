@@ -42,7 +42,7 @@ Since both ssh and scp are common commands, rather than learn a google specific 
 
 In order to do this, we need to provide local access to the ssh network-service running on your cloud-shell.
 
-Hmmm, how can we make a secure connection to a network service? Why Ssh, of course! Executing the following command
+Hmmm, how can we make a secure connection to a network service? Why Ssh, of course! Executing the following command in your local shell
 
 
 `$ gcloud alpha cloud-shell ssh --ssh-flag='-L 6000:127.0.0.1:22'`
