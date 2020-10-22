@@ -60,7 +60,7 @@ Working on a single machine with tabular data that fits or doesn't fit in memory
 
 <small>hw3 in, Project Released</small>  
 2020-10-06 Tu: Midterm Review
-2020-10-08 Th: Midterm Exam
+2020-10-08 Th: Midzterm Exam
 ---
 
 ### Accessing Live Data (4 weeks)
